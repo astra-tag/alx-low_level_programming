@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- *main - Entry
- *Return: ends with 0
+ * main - Entry
+ * Return: ends with 0
  */
 int main(void)
 {
